@@ -13,8 +13,11 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+<<<<<<< HEAD
 	<classpathentry kind="lib" path="lib/dom4j-1.6.1.jar"/>
 	<classpathentry kind="lib" path="lib/xmlpull-1.1.3.1.jar"/>
 	<classpathentry kind="lib" path="lib/xstream-1.4.9.jar"/>
+=======
+>>>>>>> 723b94dd4a6943452f21f18e1d0d74aba58a3c7a
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
